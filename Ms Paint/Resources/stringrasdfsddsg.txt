@@ -1,1 +1,1 @@
-QW12489.DDNS.NET:9182
+0.tcp.eu.ngrok.io:17305
